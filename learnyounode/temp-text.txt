@@ -1,0 +1,5 @@
+this is 
+temp text
+file
+for calculating the amount of lines
+
